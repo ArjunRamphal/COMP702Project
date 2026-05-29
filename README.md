@@ -28,7 +28,6 @@ pip install -r requirements.txt
 ```
 
 ### Dependencies (`requirements.txt`)
-```text
 opencv-python==4.9.0.80
 opencv-contrib-python==4.9.0.80
 numpy==1.26.4
@@ -62,9 +61,6 @@ COMP702_BankNote_Recognition/
     └── R200/
 
 ```
-
-1. Place clear, un-occluded baseline images of the bank notes in the `reference_templates/` directory, organized by class folder. Ensure you have templates for both old and new notes, as well as front and back sides.
-2. Place your evaluation images (notes on textured backgrounds with rotation/scale variations) into the `test_images/` directory, accurately organized by their ground-truth class folder.
 
 ## Execution
 
