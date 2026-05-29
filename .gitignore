@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+Project.pdf
+augmented_notes/
+base_notes/
+Note Images/
+test_images_augmented/
+test_images_backgrounds/
+Synthetic Dataset Generation/
+augment.py
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
